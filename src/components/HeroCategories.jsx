@@ -32,7 +32,7 @@ function HeroCategories() {
         <div className="flex flex-col items-center">
           <div
             style={{
-              backgroundImage: `url(../Products_Img/nike-blazer-low/1.png)`,
+              backgroundImage: `url(https://res.cloudinary.com/dmrw4vltk/image/upload/v1717332466/e-commerce/air-jordan-mid/nike-phantom-gx/1_hq7jgq.webp)`,
             }}
             className="bg-cover bg-bottom  bg-no-repeat md:w-[200px] md:h-[200px] w-[150px] h-[150px] bg-indigo-400 rounded-full "
           ></div>
@@ -42,7 +42,7 @@ function HeroCategories() {
         <div className="flex flex-col items-center">
           <div
             style={{
-              backgroundImage: `url(../Products_Img/nike-phantom-gx/1.png)`,
+              backgroundImage: `url(https://res.cloudinary.com/dmrw4vltk/image/upload/v1717332487/e-commerce/air-jordan-mid/jordan-stadium-90/1_kyhrf9.jpg)`,
             }}
             className="bg-cover bg-bottom bg-no-repeat md:w-[200px] md:h-[200px] w-[150px] h-[150px] bg-indigo-400 rounded-full "
           ></div>
@@ -52,7 +52,7 @@ function HeroCategories() {
         <div className="flex flex-col items-center">
           <div
             style={{
-              backgroundImage: `url(../Products_Img/jordan-roam/1.png)`,
+              backgroundImage: `url(https://res.cloudinary.com/dmrw4vltk/image/upload/v1717332483/e-commerce/air-jordan-mid/jordan-roam/1_m61nu4.webp)`,
             }}
             className="bg-cover bg-bottom bg-no-repeat md:w-[200px] md:h-[200px] w-[150px] h-[150px] bg-indigo-400 rounded-full "
           ></div>
@@ -62,7 +62,7 @@ function HeroCategories() {
         <div className="flex flex-col items-center">
           <div
             style={{
-              backgroundImage: `url(../Products_Img/air-force-107/1.png)`,
+              backgroundImage: `url(https://res.cloudinary.com/dmrw4vltk/image/upload/v1717332498/e-commerce/air-jordan-mid/nike-air-max-plus/1.webp)`,
             }}
             className="bg-cover bg-bottom bg-no-repeat md:w-[200px] md:h-[200px] w-[150px] h-[150px] bg-indigo-400 rounded-full "
           ></div>
@@ -72,7 +72,7 @@ function HeroCategories() {
         <div className="flex flex-col items-center">
           <div
             style={{
-              backgroundImage: `url(../Products_Img/nike-air-max-100/1.png)`,
+              backgroundImage: `url(https://res.cloudinary.com/dmrw4vltk/image/upload/v1717332364/e-commerce/air-jordan-mid/1_wlqrzv.jpg)`,
             }}
             className="bg-cover bg-bottom bg-no-repeat md:w-[200px] md:h-[200px] w-[150px] h-[150px] bg-indigo-400 rounded-full "
           ></div>
@@ -82,9 +82,9 @@ function HeroCategories() {
         <div className="flex flex-col items-center">
           <div
             style={{
-              backgroundImage: `url(../assets/kids.png)`,
+              backgroundImage: `url(https://res.cloudinary.com/dmrw4vltk/image/upload/v1717332489/e-commerce/air-jordan-mid/nike-air-max-100/1_k9ti2b.webp)`,
             }}
-            className="bg-cover bg-center bg-no-repeat md:w-[200px] md:h-[200px] w-[150px] h-[150px] bg-indigo-400 rounded-full "
+            className="bg-cover bg-bottom bg-no-repeat md:w-[200px] md:h-[200px] w-[150px] h-[150px] bg-indigo-400 rounded-full "
           ></div>
           <p className="text-2xl font-sans "> Kids </p>
         </div>

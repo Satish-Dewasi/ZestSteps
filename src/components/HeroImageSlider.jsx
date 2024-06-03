@@ -25,15 +25,24 @@ function HeroImageSlider() {
   const slides = [
     {
       id: 1,
-      img: "../assets/hero_banner_1.webp",
+      img: "https://res.cloudinary.com/dmrw4vltk/image/upload/v1717380132/e-commerce/banners/Shoe-Cover-1_krzv1j.jpg",
     },
     {
       id: 2,
-      img: "../assets/hero_banner_3.webp",
+      img: "https://res.cloudinary.com/dmrw4vltk/image/upload/v1717380212/e-commerce/banners/Shoe-Cover-3_yhzwa1.jpg",
     },
     {
       id: 3,
-      img: "../assets/hero_banner_4.webp",
+      img: "https://res.cloudinary.com/dmrw4vltk/image/upload/v1717380235/e-commerce/banners/Shoe-Cover-4_toowgg.jpg",
+    },
+
+    {
+      id: 4,
+      img: "https://res.cloudinary.com/dmrw4vltk/image/upload/v1717380292/e-commerce/banners/hero_banner_3_oiuh12.webp",
+    },
+    {
+      id: 5,
+      img: "https://res.cloudinary.com/dmrw4vltk/image/upload/v1717380329/e-commerce/banners/hero_banner_4_hd4afe.webp",
     },
   ];
 
